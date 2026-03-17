@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Boom Biddy Bye Bye (Fugees Remix)",
+  "base_artist": "Cypress Hill",
+  "createdAt": "2026-03-17T21:35:51.729978Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boom Biddy Bye Bye (Fugees Remix)",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/01_Boom_Biddy_Bye_Bye_(Fugees_Remix)_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boom Biddy Bye Bye [Fugees remix]",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/02_Boom_Biddy_Bye_Bye_[Fugees_remix]_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boom Biddy Bye Bye (Fugees remix)",
+      "artist": "Cypress Hill; Fugees",
+      "has_synced": true,
+      "path": "select/03_Boom_Biddy_Bye_Bye_(Fugees_remix)_Cypress_Hill;_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boom Biddy Bye Bye (Fugees Remix)",
+      "artist": "Cypress Hill, Fugees",
+      "has_synced": true,
+      "path": "select/04_Boom_Biddy_Bye_Bye_(Fugees_Remix)_Cypress_Hill,_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "01 - Boom biddy bye bye (Fugees remix)",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/05_01_-_Boom_biddy_bye_bye_(Fugees_remix)_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boom Biddy Bye Bye (Fugees remix)",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/06_Boom_Biddy_Bye_Bye_(Fugees_remix)_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "01 Boom Biddy Bye Bye (Fugees remix)",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/07_01_Boom_Biddy_Bye_Bye_(Fugees_remix)_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boom Biddy Bye Bye - Fugees Remix",
+      "artist": "Cypress Hill feat. Fugees",
+      "has_synced": false,
+      "path": "select/08_Boom_Biddy_Bye_Bye_-_Fugees_Remix_Cypress_Hill_feat._Fugees.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boom Biddy Bye Bye (Fugees remix instrumental)",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/09_Boom_Biddy_Bye_Bye_(Fugees_remix_instrumental)_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boom Biddy Bye Bye (Fugees Remix) feat. Wyclef Jean",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/10_Boom_Biddy_Bye_Bye_(Fugees_Remix)_feat._Wyclef_Jean_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Boom Biddy Bye Bye (Fugees Remix) (feat. Fugees)",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/11_Boom_Biddy_Bye_Bye_(Fugees_Remix)_(feat._Fugees)_Cypress_Hill.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boom Biddy Bye Bye (Fugees Remix)",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/pl_01_Boom_Biddy_Bye_Bye_(Fugees_Remix)_Cypress_Hill.txt"
+    }
+  ]
+}
